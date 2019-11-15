@@ -1,6 +1,6 @@
 package basices
 
-fun main(arg: Array<String>){
+fun main(arg: Array<String>) {
     val timesTwo = {x: Int -> x*2}
 
     println(timesTwo(10))

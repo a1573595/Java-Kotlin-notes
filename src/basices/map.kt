@@ -1,6 +1,6 @@
 package basices
 
-fun main(arg: Array<String>){
+fun main(arg: Array<String>) {
     val list = (1..100).toList()
 
     val double = list.map { element -> element * 2 }
