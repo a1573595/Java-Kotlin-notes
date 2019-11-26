@@ -1,4 +1,4 @@
-package basices
+package function
 
 fun main(arg: Array<String>) {
     val list = (1..100).toList()
