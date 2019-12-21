@@ -2,7 +2,6 @@ package oo
 
 import java.util.*
 
-
 val list: List<Int> = listOf(1, 2, 3)
 
 class TimeLine<E>() {
